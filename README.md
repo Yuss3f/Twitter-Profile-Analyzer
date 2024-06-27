@@ -34,18 +34,24 @@ Twitter Analytics Dashboard is a web application designed to help users visualiz
 git clone https://github.com/yourusername/twitter-analytics-dashboard.git
 cd twitter-analytics-dashboard
 
+```
+
 ## Backend Setup
 
 ###Python (Flask) Backend
 
 - Create a virtual environment and activate it:
 
+```bash
 	python -m venv venv
 	source venv/bin/activate
+```
 
 - Install dependencies:
 
+```bash
 	pip install -r requirements.txt
+```
 
 - Set up environment variables for Twitter API credentials and MySQL database connection.
 - Run the Flask server:
@@ -55,13 +61,15 @@ cd twitter-analytics-dashboard
 ### Node.js (Express) Backend
 
 - Install dependencies:
-
+```bash
 	npm install
+```
 
 - Set up environment variables for Twitter API credentials and MySQL database connection
 - Run the Express server:
-
+```bash
 	npm start
+```
 
 ## Frontend Setup
 
