@@ -73,3 +73,32 @@ cd twitter-analytics-dashboard
 
 ## Frontend Setup
 
+- Navigate to the frontend directory:
+
+```bash
+	cd frontend
+```
+- Install dependencies:
+
+```bash
+	npm install
+```
+- Run the development server:
+
+```bash
+	npm start
+```
+
+## Usage
+
+- Navigate to http://localhost:3000 in your browser.
+- Log in using your Twitter account.
+- Explore the dashboard to view your profile and tweet analytics.
+
+## Contact
+
+- I welcome suggestions and remarks! Feel free to reach out to me via email: kayke8youssef@gmail.com
+
+# Author
+
+- Youssef KAYK
